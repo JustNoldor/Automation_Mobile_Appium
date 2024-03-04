@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/org/appiumproject/Main.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/pages/LoginPage.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/pages/ProductsPage.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/stepdefs/LoginStepDef.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/stepdefs/ProductsStepDef.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/utils/AppiumDriverFactory.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/utils/CommonHelpers.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/utils/DataProperty.java;/Users/user/Desktop/Personal/Appium-Project/src/test/java/utils/TestRunner.java;/Users/user/Desktop/Personal/Appium-Project/src/test/resources/spark-config.xml;/Users/user/Desktop/Personal/Appium-Project/test-output/spark/jsontree.js;/Users/user/Desktop/Personal/Appium-Project/test-output/spark/spark-script.js;/Users/user/Desktop/Personal/Appium-Project/test-output/SparkReport/Index.html;/Users/user/Desktop/Personal/Appium-Project/test-output/report.html;/Users/user/Desktop/Personal/Appium-Project/pom.xml" />
+  </component>
+</project>
